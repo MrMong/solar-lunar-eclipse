@@ -6,6 +6,10 @@ The user is able to move freely through the space and can control the simulation
 
 This project uses source code from this [Open Tutorial](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-6-keyboard-and-mouse/) for camera control and the basic approach of application architecture from this [website](http://www.cplusplus.com/articles/NvCRko23/).
 
+<a href="https://cloud.githubusercontent.com/assets/9590880/10418215/10338594-7055-11e5-8690-b1ca0aa63859.png"><img src="https://cloud.githubusercontent.com/assets/9590880/10418215/10338594-7055-11e5-8690-b1ca0aa63859.png" width="20%"></a>
+<a href="https://cloud.githubusercontent.com/assets/9590880/10418214/1031f17a-7055-11e5-8c56-2b102ba79321.png"><img src="https://cloud.githubusercontent.com/assets/9590880/10418214/1031f17a-7055-11e5-8c56-2b102ba79321.png" width="20%"></a>
+<a href="https://cloud.githubusercontent.com/assets/9590880/10418216/1037a57a-7055-11e5-9979-9f600e8de141.png"><img src="https://cloud.githubusercontent.com/assets/9590880/10418216/1037a57a-7055-11e5-9979-9f600e8de141.png" width="20%"></a>
+
 ## Installation
 
 ### Requirements
