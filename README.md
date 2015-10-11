@@ -24,7 +24,7 @@ This project uses source code from this [Open Tutorial](http://www.opengl-tutori
 * Download GLEW, GLFW, GLM, GLUT
 * Compile GLEW, GLFW and GLUT to dlls
 * Put the dlls of GLEW, GLFW and GLUT to <i>../solar-lunar-eclipse/Lib</i>
-* GLM does not need to be compiled so put the library to <i>../solar-lunar-eclipse/Include</i>
+* GLM does not need to be compiled so put the library files to <i>../solar-lunar-eclipse/Include/GLM</i>
 * Put the header files of GLEW and GLFW to <i>../solar-lunar-eclipse/Include/GL</i>
 * Put the header file of GLUT to <i>../solar-lunar-eclipse/Include/GLUT</i>
 
